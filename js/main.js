@@ -27,26 +27,20 @@ function loadNewsContent() {
             date: "January 2025",
             title: "New Publication in Scientific Reports",
             description: "Our latest work on 'Amplitude entropy captures chimera resembling behavior in the altered brain dynamics during seizures' has been published.",
-            link: "#"
+            link: "https://www.nature.com/articles/s41598-025-97854-y"
         },
         {
             date: "January 2025", 
             title: "PRECOGNITION Project Protocol Published",
             description: "Our protocol for 'Learning latent profiles via cognitive growth charting in psychosis' is now available in Schizophrenia Bulletin Open.",
-            link: "#"
+            link: "https://academic.oup.com/schizbullopen/article/6/1/sgaf007/8109912"
         },
         {
             date: "February 2025",
             title: "Invited Speaker at Pint of Science",
             description: "Upcoming public talk: 'Mind the Gap: How to analyze what's missing' - making science accessible to everyone.",
-            link: "#"
+            link: "https://www.linkedin.com/feed/update/urn:li:activity:7331037003343409152/"
         },
-        {
-            date: "April 2024",
-            title: "eLife Publication: Longitudinal Normative Modeling", 
-            description: "Our groundbreaking work on using normative models pre-trained on cross-sectional data for longitudinal analysis is now published in eLife.",
-            link: "https://elifesciences.org/articles/95823"
-        }
     ];
     
     // Generate news HTML
